@@ -113,8 +113,8 @@ The scripting workshop will show people how Python can be used as a scripting la
 * eyeD3 http://pypi.python.org/pypi/eyeD3/
 
 We thought about possible steps which are:
-✔ * Print id3 tags 
-✔ * Rename files based on id3 tag
+* Print id3 tags ✔ 
+* Rename files based on id3 tag ✔ 
 * Change id3 data based on file/folder name
 * List directory / walk directories / batch processing
 * Statistics about genre, total number of albums, ...
