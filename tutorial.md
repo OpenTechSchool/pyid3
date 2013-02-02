@@ -107,6 +107,9 @@ That is the argument parser we've just set up, stopping execution at parse_args 
 And if you execute it now, it should rename any given file for you depending on its tags. Try it :) .
 
 
+--
+
+
 :: Notes from the Email
 The scripting workshop will show people how Python can be used as a scripting language by processing mp3 id3 tags. Possible Libraries to use are:
 * PyID3 http://pypi.python.org/pypi/PyID3/
